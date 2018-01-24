@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "alexa-sdk": "1.0.25",
+    "sync-request": "4.1.0"
+  }
+}
